@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - adventure
 post: https://github.com/HomerDilpleu/Unloved13/blob/main/postMortem/postMortem.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
